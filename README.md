@@ -4,5 +4,5 @@ The arduino part of the IEEE Solenoid Engine project aims at timing the gap betw
 
 ![Circuit Diagram](/img/arduinocircuit.png)
 
-The simulation in tinkercad can be found in the below url /n
-https://www.tinkercad.com/things/doQFAOoXeop-daring-migelo-krunk/editel?tenant=circuits?sharecode=0Vug_bZ3K21lWg8KbMc9Fp36DwrYgfZRDNthr9hPmns=
+The simulation in tinkercad can be found in the below url \n
+https://www.tinkercad.com/things/doQFAOoXeop-daring-migelo-krunk/editel?tenant=circuits?sharecode=0Vug_bZ3K21lWg8KbMc9Fp36DwrYgfZRDNthr9hPmns=\
